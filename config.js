@@ -31,10 +31,10 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘": "./imgs/xinaide.jpg",
+        "心爱的姑娘": "./imgs/diyigeshengri.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第一个生日！": "./imgs/diiygeshengri.jpg",
+        "第一个生日！": "./imgs/keai_v1.jpg",
         "这一年来，我见过你": "./imgs/yangzi.jpeg",
         "奇怪的样子": "./imgs/qiguaide.jpg",
         "可爱的样子": "./imgs/shengqi.jpg",
