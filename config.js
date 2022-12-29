@@ -7,8 +7,8 @@ var config = {
         "心爱的姑娘",  // 同上...
         "今天是你的生日",
         "这是我们在一起的",
-        "第三个生日！",
-        "这两年来，我见过你",
+        "第一个生日！",
+        "这一年来，我见过你",
         "奇怪的样子",
         "可爱的样子",
         "生气的样子",
@@ -31,19 +31,19 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的姑娘": "./imgs/nothing.jpg",
+        "心爱的姑娘": "./imgs/xinaide.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第三个生日！": "./imgs/nothing.jpg",
-        "这两年来，我见过你": "./imgs/yangzi.jpeg",
-        "奇怪的样子": "./imgs/nothing.jpg",
-        "可爱的样子": "./imgs/nothing.jpg",
-        "生气的样子": "./imgs/nothing.jpg",
-        "都是我喜欢的样子": "./imgs/nothing.jpg",
+        "第一个生日！": "./imgs/nothing.jpg",
+        "这一年来，我见过你": "./imgs/yangzi.jpeg",
+        "奇怪的样子": "./imgs/qiguaide.HEIC",
+        "可爱的样子": "./imgs/keaide.jpg",
+        "生气的样子": "./imgs/shengqide.jpg",
+        "都是我喜欢的样子": "./imgs/all_love.jpg",
         "对了，礼物收全了吗？": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
-        "然后才有力气干活": "./imgs/nothing.jpg",
+        "然后才有力气干活": "./imgs/ganhuo.jpg",
         "和想我！": "./imgs/nothing.jpg",
         "生日快乐~~": "./imgs/nothing.jpg"
     },
@@ -61,5 +61,5 @@ var config = {
     },
 
     // 结束语
-    loveText: '爱你的X先生~'
+    loveText: '爱你的鸟先生~'
 };
