@@ -17,7 +17,7 @@ var config = {
         "今年要吃好好的",
         "喂饱饱的",
         "然后才有力气干活",
-        "和想我！",
+        "和快乐！",
         "生日快乐~~",
     ],
     /**
@@ -34,18 +34,18 @@ var config = {
         "心爱的姑娘": "./imgs/xinaide.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第一个生日！": "./imgs/nothing.jpg",
+        "第一个生日！": "./imgs/diiygeshengri.jpg",
         "这一年来，我见过你": "./imgs/yangzi.jpeg",
-        "奇怪的样子": "./imgs/qiguaide.HEIC",
-        "可爱的样子": "./imgs/qiguaide.HEIC",
-        "生气的样子": "./imgs/nothing.jpg",
-        "都是我喜欢的样子": "./imgs/nothing.jpg",
+        "奇怪的样子": "./imgs/qiguaide.jpg",
+        "可爱的样子": "./imgs/shengqi.jpg",
+        "生气的样子": "./imgs/keai.jpg",
+        "都是我喜欢的样子": "./imgs/douxihuan.jpg",
         "对了，礼物收全了吗？": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
-        "然后才有力气干活": "./imgs/nothing.jpg",
-        "和想我！": "./imgs/nothing.jpg",
-        "生日快乐~~": "./imgs/nothing.jpg"
+        "然后才有力气干活": "./imgs/ganhuo.jpg",
+        "和快乐！": "./imgs/xiangwo.jpg",
+        "生日快乐~~": "./imgs/shengrikuaile.jpg"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
