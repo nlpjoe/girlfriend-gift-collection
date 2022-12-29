@@ -44,7 +44,7 @@ var config = {
         "今年要吃好好的": "./imgs/chihaodian.jpeg",
         "喂饱饱的": "./imgs/weibao.jpeg",
         "然后才有力气干活": "./imgs/ganhuo.jpg",
-        "和快乐！": "./imgs/xiangwo.jpg",
+        "和快乐！": "./imgs/kuaile.jpg",
         "生日快乐~~": "./imgs/shengrikuaile.jpg"
     },
     
